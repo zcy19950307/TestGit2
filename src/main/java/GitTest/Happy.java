@@ -6,5 +6,6 @@ public class Happy {
 
   public static void main(String[] args) {
 	System.out.println("ÑÝÊ¾left ....");
+	System.out.println("hot fix ......");
 }
 }
